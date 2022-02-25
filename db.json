@@ -1,0 +1,9 @@
+{
+  "users": [
+    {"id": 1, "name": "Ganesh", "userid": "ganesh", "password": "test123"},
+    {"id": 2, "name": "Harikumar G", "userid": "hari", "password": "test123"}
+    ],
+    "clients":[
+      {"id": 1, "name": "ABC Ltd", "domain": "abc.com"}
+    ]
+}
