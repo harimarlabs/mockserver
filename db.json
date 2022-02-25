@@ -1,7 +1,5 @@
 {
-  
   "users": [
-  
   {
     "id": 1,
     "name": "Tyshawn",
@@ -106,76 +104,6 @@
     "userid": "Angelo_Haley",
     "password": "8oZPCniAVKhPDy3",
     "email": "Madilyn55@hotmail.com"
-  },
-  {
-    "id": 16,
-    "name": "Charlene",
-    "userid": "Shanna54",
-    "password": "z0jCu3lLC4yA5Gz",
-    "email": "Naomie_Roberts88@gmail.com"
-  },
-  {
-    "id": 17,
-    "name": "Chloe",
-    "userid": "Paxton67",
-    "password": "e8qRpSNJmZa9t_f",
-    "email": "Ephraim.Beer@gmail.com"
-  },
-  {
-    "id": 18,
-    "name": "Miracle",
-    "userid": "Amiya_Monahan",
-    "password": "BVTfAk913Ql22aZ",
-    "email": "Jason76@gmail.com"
-  },
-  {
-    "id": 19,
-    "name": "Durward",
-    "userid": "Alda_Gaylord43",
-    "password": "aweSEwGEF6vkfej",
-    "email": "Katharina98@yahoo.com"
-  },
-  {
-    "id": 20,
-    "name": "Lucy",
-    "userid": "Cruz2",
-    "password": "QIs5YmaA0Lez0n_",
-    "email": "Kelly_OConnell@yahoo.com"
-  },
-  {
-    "id": 21,
-    "name": "Otha",
-    "userid": "Sherwood_Schmitt5",
-    "password": "oI4FMWjRgjsfCda",
-    "email": "Grace_Marks33@yahoo.com"
-  },
-  {
-    "id": 22,
-    "name": "Assunta",
-    "userid": "Mckenzie_Ebert81",
-    "password": "KvWSCZW5c9ZVvsw",
-    "email": "Ethan_Pacocha64@gmail.com"
-  },
-  {
-    "id": 23,
-    "name": "Shemar",
-    "userid": "Terrance95",
-    "password": "vIAt8MjFTQP_6nn",
-    "email": "Rico.Jacobi12@yahoo.com"
-  },
-  {
-    "id": 24,
-    "name": "Jessika",
-    "userid": "Merritt.Murray57",
-    "password": "DM17v4rIaaGhdzV",
-    "email": "Jamar_Davis@yahoo.com"
-  },
-  {
-    "id": 25,
-    "name": "Leonard",
-    "userid": "Sage66",
-    "password": "KMSNW9iOVUEPAte",
-    "email": "Geovanny.Ledner@yahoo.com"
   }
   
     ],
