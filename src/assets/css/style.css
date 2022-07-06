@@ -1,0 +1,82 @@
+.tab-content .card-info:not(.card-outline) > .card-header {
+  background-color: #fff;
+}
+
+.tab-content .card-info:not(.card-outline) > .card-header .card-title {
+  color: #17a2b8;
+  text-decoration: underline;
+}
+
+/*Scroll style*/
+
+::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+  border: 1px solid #d5d5d5;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0;
+  background: #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background: #17a2b8;
+}
+
+.bg-login-img {
+  background-image: url(../images/login-image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+}
+
+/* Data Table Style*/
+.rdt_TableHeadRow .rdt_TableCol {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-overflow: initial;
+  word-break: break-word;
+  font-size: 0.75rem;
+  overflow: initial;
+  font-weight: bold;
+  white-space: pre-line;
+  text-align: center;
+}
+
+.rdt_TableHeadRow .rdt_TableCol .dFsTSm {
+  word-break: break-word;
+  white-space: pre-line;
+  text-align: center;
+}
+
+.rdt_TableRow .rdt_TableCell {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-overflow: initial;
+  word-break: break-word;
+  font-size: 0.75rem;
+  overflow: initial;
+}
+
+.calyx-table .btn {
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+
+.rdt_TableRow .rdt_TableCol:first-child {
+  white-space: initial;
+  overflow: auto;
+}
+
+.table-scroll-x {
+  overflow-x: auto;
+}
+
+.white-space {
+  white-space: nowrap;
+}

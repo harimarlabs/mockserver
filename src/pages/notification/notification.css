@@ -1,0 +1,28 @@
+.timeline {
+  list-style-type: none;
+  position: relative;
+}
+
+.timeline:before {
+  background: #dee2e6;
+  height: 100%;
+  left: 9px;
+  width: 2px;
+}
+
+.timeline-item:before,
+.timeline:before {
+  content: " ";
+  display: inline-block;
+  position: absolute;
+  z-index: 1;
+}
+
+.timeline-item:before {
+  background: #fff;
+  border: 3px solid #3b7ddd;
+  border-radius: 50%;
+  height: 20px;
+  left: 0;
+  width: 20px;
+}

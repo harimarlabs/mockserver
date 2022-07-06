@@ -1,0 +1,50 @@
+.bg-members {
+  height: 93px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.dashboard-bg {
+  height: 200px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bg-new-members {
+  background-image: url("../../assets/dashboard_images/new_members.jpg");
+}
+.bg-high-risk-members {
+  background-image: url("../../assets/dashboard_images/high_risk_members.jpg");
+}
+.bg-medium-risk-members {
+  background-image: url("../../assets/dashboard_images/medium_risk_members.jpg");
+}
+.bg-low-risk-members {
+  background-image: url("../../assets/dashboard_images/low_risk_members.jpg");
+}
+.bg-care-plan-funnel {
+  background-image: url("../../assets/dashboard_images/care_plan_funnel.jpg");
+}
+.bg-notifications-opened {
+  background-image: url("../../assets/dashboard_images/notifications_opened.jpg");
+}
+.bg-member-milestone {
+  background-image: url("../../assets/dashboard_images/member_milestone.jpg");
+}
+.bg-todays-task {
+  background-image: url("../../assets/dashboard_images/todays_task_list.png");
+}
+.bg-task-report {
+  background-image: url("../../assets/dashboard_images/plan_complaince.png");
+}
+
+.bg-coming-soon {
+  background: url("../../assets/dashboard_images/comingsoon.png") no-repeat #f7f7f7 center !important;
+  width: 100%;
+  min-height: 60vh;
+  background-position: center center;
+  background-size: contain;
+}
